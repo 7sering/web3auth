@@ -1,1 +1,1 @@
-export const nftCollection = "0xBF4EBa5812b9bfB014fc5C1cfeC8EC8f29513EF4"
+export const nftContract = "0xBF4EBa5812b9bfB014fc5C1cfeC8EC8f29513EF4"
